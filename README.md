@@ -78,6 +78,7 @@ This result is stored as: `student_predictions.json` and used as the primary dat
 GradeGuard-AI/
 │
 ├── GradeGuard_AI.ipynb # Main notebook with full multi-agent system
+├── student-performance-prediction.ipynb
 ├── student_predictions.json # ML output used by agents
 ├── README.md # Project documentation
 ```
